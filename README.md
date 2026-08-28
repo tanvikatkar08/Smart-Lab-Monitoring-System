@@ -19,7 +19,7 @@ https://wokwi.com/projects/473577630874233857
 ### Circuit Diagram
 ![Circuit](IMG-20260828-WA6099.jpg)
 !## Simulation Output
-![Wokwi Simulation](wokwi_simulation.jpg)
+![Wokwi Simulation](IMG-20260828-WA0069.jpg)
 
 ### How to Run
 1. Open Wokwi link
