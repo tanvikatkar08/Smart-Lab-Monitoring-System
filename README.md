@@ -17,7 +17,7 @@ IoT based system to monitor lab temperature, humidity and motion using ESP32.
 https://wokwi.com/projects/473577630874233857
 
 ### Circuit Diagram
-Upload your circuit screenshot here later
+![Circuit](circuit.png)
 
 ### How to Run
 1. Open Wokwi link
